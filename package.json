@@ -1,0 +1,41 @@
+{
+  "name": "nextjs-smartcontract-lottery-fcc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.4",
+    "@mui/styled-engine-sc": "^5.10.3",
+    "bootstrap": "^5.2.1",
+    "ethers": "^5.7.0",
+    "magic-sdk": "^9.0.0",
+    "mdb-react-ui-kit": "^4.2.0",
+    "moralis-v1": "1.11.0",
+    "next": "12.2.5",
+    "nice-react-ticker": "^2.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-moralis": "1.4.0",
+    "react-scroll-to-top": "^3.0.0",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.3.2",
+    "web3uikit": "^0.1.159"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "prettier": "^2.7.1"
+  },
+  "resolutions": {
+    "react-moralis": "1.4.0"
+  }
+}
