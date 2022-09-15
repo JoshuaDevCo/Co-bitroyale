@@ -1,2 +1,0 @@
-# bitroyale
-An online casino
