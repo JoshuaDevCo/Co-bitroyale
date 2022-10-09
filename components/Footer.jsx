@@ -13,9 +13,9 @@ export default function Footer() {
         <div style={{ backgroundColor: "#000" }}>
             <MDBFooter className="bg-dark text-center text-white">
                 <div className="text-center p-3" style={{ backgroundColor: "#000" }}>
-                    © 2022 Copyright :
+                    © 2022 Copyright  &nbsp; : &nbsp;
                     <a className="text-white" href="">
-                        Casino BitRoyal
+                         Casino BitRoyal
                     </a>
                 </div>
             </MDBFooter>
